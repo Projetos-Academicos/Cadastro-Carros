@@ -1,0 +1,31 @@
+c:\users\gr00t13\documents\visual studio 2017\Projects\MeuJeito\MeuJeito\bin\Debug\MeuJeito.exe.config
+c:\users\gr00t13\documents\visual studio 2017\Projects\MeuJeito\MeuJeito\bin\Debug\MeuJeito.exe
+c:\users\gr00t13\documents\visual studio 2017\Projects\MeuJeito\MeuJeito\bin\Debug\MeuJeito.pdb
+c:\users\gr00t13\documents\visual studio 2017\Projects\MeuJeito\MeuJeito\obj\Debug\MeuJeito.csprojResolveAssemblyReference.cache
+c:\users\gr00t13\documents\visual studio 2017\Projects\MeuJeito\MeuJeito\obj\Debug\MeuJeito.exe
+c:\users\gr00t13\documents\visual studio 2017\Projects\MeuJeito\MeuJeito\obj\Debug\MeuJeito.pdb
+C:\Users\alunofg.FGACAD\Music\MeuJeito\MeuJeito\bin\Debug\MeuJeito.exe.config
+C:\Users\alunofg.FGACAD\Music\MeuJeito\MeuJeito\obj\Debug\MeuJeito.exe
+C:\Users\alunofg.FGACAD\Music\MeuJeito\MeuJeito\obj\Debug\MeuJeito.pdb
+C:\Users\alunofg.FGACAD\Music\MeuJeito\MeuJeito\bin\Debug\MeuJeito.exe
+C:\Users\alunofg.FGACAD\Music\MeuJeito\MeuJeito\bin\Debug\MeuJeito.pdb
+C:\Users\alunofg.FGACAD\Music\MeuJeito\MeuJeito\obj\Debug\MeuJeito.csprojResolveAssemblyReference.cache
+C:\Users\alunofg.FGACAD\Downloads\MeuJeitoV2\MeuJeito\bin\Debug\MeuJeito.exe.config
+C:\Users\alunofg.FGACAD\Downloads\MeuJeitoV2\MeuJeito\obj\Debug\MeuJeito.exe
+C:\Users\alunofg.FGACAD\Downloads\MeuJeitoV2\MeuJeito\obj\Debug\MeuJeito.pdb
+C:\Users\alunofg.FGACAD\Downloads\MeuJeitoV2\MeuJeito\bin\Debug\MeuJeito.exe
+C:\Users\alunofg.FGACAD\Downloads\MeuJeitoV2\MeuJeito\bin\Debug\MeuJeito.pdb
+C:\Users\alunofg.FGACAD\Downloads\MeuJeitoV2\MeuJeito\obj\Debug\MeuJeito.csprojResolveAssemblyReference.cache
+C:\Users\GR00T13\Downloads\MeuJeitoV3\MeuJeito\bin\Debug\MeuJeito.exe.config
+C:\Users\GR00T13\Downloads\MeuJeitoV3\MeuJeito\bin\Debug\MeuJeito.exe
+C:\Users\GR00T13\Downloads\MeuJeitoV3\MeuJeito\bin\Debug\MeuJeito.pdb
+C:\Users\GR00T13\Downloads\MeuJeitoV3\MeuJeito\obj\Debug\MeuJeito.csprojResolveAssemblyReference.cache
+C:\Users\GR00T13\Downloads\MeuJeitoV3\MeuJeito\obj\Debug\MeuJeito.exe
+C:\Users\GR00T13\Downloads\MeuJeitoV3\MeuJeito\obj\Debug\MeuJeito.pdb
+C:\Users\Ricardo\Pictures\MeuJeitoV4-FINAL\MeuJeito\bin\Debug\MeuJeito.exe.config
+C:\Users\Ricardo\Pictures\MeuJeitoV4-FINAL\MeuJeito\bin\Debug\MeuJeito.exe
+C:\Users\Ricardo\Pictures\MeuJeitoV4-FINAL\MeuJeito\bin\Debug\MeuJeito.pdb
+C:\Users\Ricardo\Pictures\MeuJeitoV4-FINAL\MeuJeito\obj\Debug\MeuJeito.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Pictures\MeuJeitoV4-FINAL\MeuJeito\obj\Debug\MeuJeito.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Pictures\MeuJeitoV4-FINAL\MeuJeito\obj\Debug\MeuJeito.exe
+C:\Users\Ricardo\Pictures\MeuJeitoV4-FINAL\MeuJeito\obj\Debug\MeuJeito.pdb
